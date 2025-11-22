@@ -1,4 +1,3 @@
-
 FROM node:lts-alpine
 
 LABEL org.opencontainers.image.authors="dalthonmh@gmail.com"
